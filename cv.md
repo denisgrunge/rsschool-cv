@@ -1,37 +1,27 @@
-# <img src="./img/profile-pic.png" width="165" height="200" alt="profile picture"> **David Zarecki**<br>
-
-
-<br>
-<br>
-<br>
+# <img src="https://www.linkpicture.com/q/my-avatar_2.jpg" width="100" height="100" alt="profile picture"> <br> **Dzianis Belahurau**<br>
+<!--Здесь будет профессия-->
 
 ## Junior _**FrontEnd Developer**_
 
-<br>
-<br>
-<br>
+<!--Дальше линия и мои контактные данные в виде номера телефона и почты с сылкой на них-->
+___
+### **My Contact Information**<br>
+**[<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/20/000000/external-phone-back-to-school-flaticons-lineal-color-flat-icons-4.png"/> Phone](https://link-to-tel.herokuapp.com/tel/%2B375256786737)** <br>
+**[<img src="https://img.icons8.com/color/20/000000/gmail--v1.png"/>  Email](https://link-to-tel.herokuapp.com/email/dzianis%252Ecustom%40gmail%252Ecom)** <br>
+**[<img src="https://img.icons8.com/ios-filled/20/000000/github.png"/> GitHub](https://github.com/denisgrunge)** <br>
 
-____
-### **Contact Information**<br>
-**[<img src="https://img.icons8.com/office/23/000000/phonelink-ring--v2.png"/> Phone](https://link-to-tel.herokuapp.com/tel/%2B7%20(968)%20396-3875)** <br>
-**[<img src="https://img.icons8.com/color/20/000000/gmail--v2.png"/> Email](mailto:zarecki.david@gmail.com)** <br>
-**[<img src="https://img.icons8.com/color/20/000000/whatsapp--v4.png"/> Whatsapp](https://api.whatsapp.com/send?phone=79683963875&text=Hi%20it%20is%20David)** <br>
-
+<!--ДАлее Информация обо мне-->
 ___
 ## **About Me** <br>
-Born in Lithuania  1985 in capital city of Vilnius. in 94' moved with parents and my brothers to Israel.<br>
-in 02' returned to Lithuania, until 12' lived studied and worked in Lithuania. <br>
-in 2012 moved to UK Lonodn and lived there until 2018. with HTML I've been introduced in mid 90's when in <br>
-Israel in 8th grade we studied IT where we started building our own sites...<br>
-but really with the HTML CSS and JavaScript started in 2019 when started my Introduction to Programming  at Udacity Course.<br>since then studying and learning on selflearning basis.
-since 2018 I live in Russia have two citizenships, EU and RUS. <br><br>
+Hello everyone, I am 35 years old. I am a person who constantly strives for something creative and interesting, I constantly like to develop and strive for new knowledge. I love music and play musical instruments.  I love designs of game devices and also computer games. I'm also interested in movies, anime and news. <br> At some point in my life, I hit a dead end and realized that I needed something new and so I decided to try my luck here!
+<br><br>
 
 ___
 ## **Skills** <br>
- &#x2705;HTML (Basic) <br>
- &#x2705;CSS (Basic)<br>
- &#x2705;JavaScript <br>
- &#x2705;Gulp (Basic) <br>
+ &#9654; HTML (Basic)<br>
+ &#9654; CSS (Basic) <br>
+ &#9654; JavaScript  <br>
+ &#9654; Git/GitHub  <br>
 ___
 
 ## **Code** <br>
@@ -50,35 +40,29 @@ function multiply(a, b){
 ```
 solution
 
-const a = 1
-const b = 1
-function multiply(a, b){
-  return (a * b)
+function multiply(a, b) {
+ return a * b
 }
 
 ```
 ___
 
-## **Courses** <br>
-**[Udacity](https://confirm.udacity.com/KASGDULU)** Intro Into Programming <br>
-___
-## **Languages** <br>
+## **Languages**<br>
 
- &#x1F6A9;English (C1 Advanced) [<img src="./img/c1-english.png" width="20" height="20">](https://www.efset.org/cert/s439P4)<br>
- &#x1F6A9;Lithuanian (Native)<br>
- &#x1F6A9;Russian (Spoken, Reading)<br>
- &#x1F6A9;Hebrew (Spoken, Writing, Reading)<br>
- &#x1F6A9;Polish (Basic)<br>
+ &#9989;English (A1)<br>
+ &#9989;Russian (Spoken, Reading, Writing)<br>
+ &#9989;Belarusian (Spoken, Writing, Reading)<br>
 ____
 
 ### **Social Media** <br>
-**[<img src="https://img.icons8.com/color/20/000000/telegram-app--v5.png"/> Telegram ](https://t.me/SoLoWeJ_ThE_GaMeR)** <br>
-**[<img src="https://img.icons8.com/color/20/000000/discord-logo.png"/> Discord](https://discord.gg/JD7VZyNd)** <br>
-**[<img src="https://img.icons8.com/color/20/000000/linkedin-2--v2.png"/> Linkedin](https://www.linkedin.com/in/david-zarecki-b72b201a1/)** <br>
-**[<img src="https://img.icons8.com/office/20/000000/facebook-new.png"/> FaceBook](https://www.facebook.com/soloweij/)** <br>
-**[<img src="https://img.icons8.com/color/20/000000/instagram-new--v2.png"/> Instagram](https://www.instagram.com/madskinnyman/)** <br>
-**[<img src="https://img.icons8.com/color/20/000000/youtube-squared.png"/> YouTube](https://www.youtube.com/channel/UCL9ZG_GqkoNmjQEPS8jLDFQ)** <br>
-<br>
+
+**[<img src="https://img.icons8.com/color/20/000000/youtube-squared.png"/> YouTube](https://www.youtube.com/channel/UCvtQhr_2ebTCYFrOEzUGLNg)**<Br>
+
+**[<img src="https://img.icons8.com/color/20/000000/instagram-new--v2.png"/> Instagram](https://www.instagram.com/denisgrunge/)** <br>
+
+**[<img src="https://img.icons8.com/color/20/000000/discord-logo.png"/> Discord](https://discord.gg/6z8YJn9f)** <br>
+
+**[<img src="https://img.icons8.com/office/20/000000/facebook-new.png"/> FaceBook](https://www.facebook.com/denismmdm/)** <br><br>
 
 
- <img src="https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png" alt=""> &copy; David Zarecki AKA SoLoWeJ under CC BY-NC-ND
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" /></a><br />Это произведение доступно по <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">лицензии Creative Commons «Attribution-NoDerivatives» («Атрибуция-БезПроизводных») 4.0 Всемирная</a>.

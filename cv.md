@@ -15,7 +15,7 @@ ___
 ## **About Me** <br>
 Hello everyone, I am 35 years old. I am a person who constantly strives for something creative and interesting, I constantly like to develop and strive for new knowledge. I love music and play musical instruments.  I love designs of game devices and also computer games. I'm also interested in movies, anime and news. <br> At some point in my life, I hit a dead end and realized that I needed something new and so I decided to try my luck here!
 <br><br>
-
+<!--Навыки-->
 ___
 ## **Skills** <br>
  &#9654; HTML (Basic)<br>
@@ -23,6 +23,8 @@ ___
  &#9654; JavaScript  <br>
  &#9654; Git/GitHub  <br>
 ___
+
+<!--коды-->
 
 ## **Code** <br>
 8kyu Multiply CodeWars
@@ -47,12 +49,16 @@ function multiply(a, b) {
 ```
 ___
 
+<!--какими языками владею-->
+
 ## **Languages**<br>
 
  &#9989;English (A1)<br>
  &#9989;Russian (Spoken, Reading, Writing)<br>
  &#9989;Belarusian (Spoken, Writing, Reading)<br>
 ____
+
+<!--социальные медиа-->
 
 ### **Social Media** <br>
 
@@ -64,5 +70,6 @@ ____
 
 **[<img src="https://img.icons8.com/office/20/000000/facebook-new.png"/> FaceBook](https://www.facebook.com/denismmdm/)** <br><br>
 
+<!--лицензирование-->
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/80x15.png" /></a><br />Это произведение доступно по <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">лицензии Creative Commons «Attribution-NoDerivatives» («Атрибуция-БезПроизводных») 4.0 Всемирная</a>.
